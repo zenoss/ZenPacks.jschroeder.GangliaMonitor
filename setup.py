@@ -5,7 +5,7 @@
 NAME = "ZenPacks.jschroeder.GangliaMonitor"
 VERSION = "1.0"
 AUTHOR = "Jeff Schroeder"
-LICENSE = "GPLv2+"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.jschroeder']
 PACKAGES = ['ZenPacks', 'ZenPacks.jschroeder', 'ZenPacks.jschroeder.GangliaMonitor']
 INSTALL_REQUIRES = []
